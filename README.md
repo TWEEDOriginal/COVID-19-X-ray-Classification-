@@ -53,15 +53,15 @@ To improve generalization and reduce overfitting, the following strategy is used
 - This is critical in medical imaging, where **overfitting to training data** can be harmful in real-world deployment.
 
 ## 📁 File Structure
-.
-├── x_train.npy                    # Training images (preprocessed)
-├── y_train.npy                    # Training labels
-├── x_test.npy                     # Test images (preprocessed)
-├── y_test.npy                     # Test labels
-│
-├── Standard_Neural_Network.ipynb  # Main notebook: model, training, evaluation
-├── README.md                      # Project overview and documentation
-├── requirements.txt               # (Optional) Dependencies list for pip install
+    .
+    ├── x_train.npy                    # Training images (preprocessed)
+    ├── y_train.npy                    # Training labels
+    ├── x_test.npy                     # Test images (preprocessed)
+    ├── y_test.npy                     # Test labels
+    │
+    ├── Standard_Neural_Network.ipynb  # Main notebook: model, training, evaluation
+    ├── README.md                      # Project overview and documentation
+    ├── requirements.txt               # (Optional) Dependencies list for pip install
 
 
 ## 🛠 Installation
